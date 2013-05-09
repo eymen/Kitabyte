@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Toast.makeText(getApplicationContext(), "metin", Toast.LENGTH_LONG).show();
-		// Toastýmý gösterdim.
+		// Toastýmý gösterdim. anladýk
 	}
 
 	@Override
